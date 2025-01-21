@@ -20,4 +20,4 @@ async def on_guild_channel_create(channel):
             await channel.send(f"{role.mention} hello welcome, how would you like to pay?")
 
 # Run the bot with your token
-bot.run('MTMwNDk3NjQ0OTYxNDI1MDA5NQ.Gp2M31.UdaQUYE1edT0njfi3A86ydeuOt5XS5z5kacbNA')
+bot.run('BOT TOKEN')
